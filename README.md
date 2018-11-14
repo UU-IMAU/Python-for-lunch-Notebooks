@@ -1,8 +1,28 @@
-# Python-for-lunch-Notebooks
+#Python-for-lunch-Notebooks
 
-Many IMAU folks currently use Python for parts of their workflow or have expressed interest in doing so. Yet the suite of packages available for geophysical science is quite extensive and therefore it can be hard to pick the right one. On top of that, learning a new language or developing a new workflow from scratch can be quite time-consuming. It makes you wonder, if only there was a fun and efficient way of mastering new Python skills… Enter Python for Lunch!.
+## Introduction
+Many IMAU folks currently use Python for parts of their workflow or have expressed interest in doing so. Yet the suite of packages available for geophysical science is quite extensive and therefore it can be hard to pick the right one. On top of that, learning a new language or developing a new workflow from scratch can be quite time-consuming. It makes you wonder, if only there was a fun and efficient way of mastering new Python skills… Enter `Python for Lunch!`.
 
-PFL! is an informal seminar series held every two weeks centred around Python. Each session has a focus which can be a package, a workflow, an aspect of programming... you name it. Next to that we intend to make room for a users-helping-users kind of thing, both online and offline, so we can maximally benefit from each others knowledge. The overall goal being to spend less time on re-inventing the wheel and more on doing cool science! 
+`Python for lunch!` is an informal seminar series held every two weeks centred around Python. Each session has a focus which can be a package, a workflow, an aspect of programming... you name it. Next to that we intend to make room for a users-helping-users kind of thing, both online and offline, so we can maximally benefit from each others knowledge. The overall goal being to spend less time on re-inventing the wheel and more on doing cool science! 
+
+## List of past topics
+
+| 2018  | Topic (lead speaker) |
+| ------------- | ------------- |
+| 14 November  | introduction  |
+| 28 November  | virtual environments (Daniele)  |
+| 12 December  | TBD  |
+
+## List of possible topics
+| Category | Package or topic |
+| ------------- | ------------- |
+| NetCDF  | Xarray, pandas, Iris, HDF5  |
+| Plotting  | Cartopy (Andre), basemap (Andre), Matplotlib, geographical data  |
+| Scientific | machine learning (Mikael?), SciPy
+| Computing | Fast code  / vectorization, cython /  Fortran (Leo), Numba, dask, parallel computing
+| Programming | readability / PEP / best practices, defensive programming (Erik), Testing (Erik), Object Oriented programming (Tjebbe)
+| Workflow | Jupyter / Jupyter magic commands, git / github,  Virtual environments / conda / canopy
+| Various | Open datasets, open source
 
 
 ## External links
