@@ -1,4 +1,4 @@
-# Python-for-lunch-Notebooks
+# `Python for lunch!`
 
 ## Introduction
 Many IMAU folks currently use Python for parts of their workflow or have expressed interest in doing so. Yet the suite of packages available for geophysical science is quite extensive and therefore it can be hard to pick the right one. On top of that, learning a new language or developing a new workflow from scratch can be quite time-consuming. It makes you wonder, if only there was a fun and efficient way of mastering new Python skills… Enter `Python for Lunch!`.
