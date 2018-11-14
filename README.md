@@ -9,9 +9,10 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 
 | 2018  | Topic (lead speaker) |
 | ------------- | ------------- |
-| 14 November  | introduction  |
-| 28 November  | virtual environments (Daniele)  |
 | 12 December  | TBD  |
+| 28 November  | virtual environments (Daniele)  |
+| 14 November  | introduction  |
+
 
 ## List of possible topics
 | Category | Package or topic |
