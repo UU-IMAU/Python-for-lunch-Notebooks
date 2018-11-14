@@ -21,7 +21,7 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 | Plotting  | Cartopy (Andre), basemap (Andre), Matplotlib, geographical data  |
 | Scientific | machine learning (Mikael?), SciPy
 | Computing | Fast code  / vectorization, cython /  Fortran (Leo), Numba, dask, parallel computing
-| Programming | readability / PEP / best practices, defensive programming (Erik), Testing (Erik), Object Oriented programming (Tjebbe)
+| Programming | readability / PEP / best practices, Defensive programming and testing (Erik), Object Oriented programming (Tjebbe)
 | Workflow | Jupyter / Jupyter magic commands, git / github,  Virtual environments / conda / canopy
 | Various | Open datasets, open source
 
