@@ -6,10 +6,15 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 `Python for lunch!` is an informal seminar series held every two weeks centred around Python. Each session has a focus which can be a package, a workflow, an aspect of programming... you name it. Next to that we intend to make room for a users-helping-users kind of thing, both online and offline, so we can maximally benefit from each others knowledge. The overall goal being to spend less time on re-inventing the wheel and more on doing cool science! 
 
 ## List of past topics
+| 2019  | Topic (lead speaker) |
+| ------------- | ------------- |
+| 23 January  | TBD  |
+| 9 January  | TBD  |
+
 
 | 2018  | Topic (lead speaker) |
 | ------------- | ------------- |
-| 12 December  | TBD  |
+| 12 December  | Jupyter notebooks (André, Getachew)  |
 | 28 November  | virtual environments (Daniele)  |
 | 14 November  | introduction  |
 
