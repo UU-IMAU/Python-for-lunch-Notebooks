@@ -8,8 +8,8 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 | year | date | topic (lead speaker) |
 | ------------- | ------------- | ------------- |
 2019 | 23 January  | tbd  |
-| | 9 January  | Example workflows using Jupyter |
-2018 | 12 December  | Jupyter notebooks (André, Getachew)  |
+| | 9 January  | Example workflows using Jupyter (Getachew, ..) |
+2018 | 12 December  | Jupyter notebooks (André)  |
 | | 28 November  | virtual environments (Daniele)  |
 | | 14 November  | introduction  |
 
@@ -17,9 +17,9 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 ## List of possible topics
 | Category | Package or topic |
 | ------------- | ------------- |
-| NetCDF  | Xarray, pandas, Iris, HDF5 , netCDF4 |
+| NetCDF  | Xarray (Leo), pandas, Iris, HDF5, netCDF4 (Aarnout) |
 | Plotting  | maps - Cartopy, basemap (André), Matplotlib, geographical data  |
-| Scientific | machine learning (Mikael?), SciPy
+| Scientific | machine learning (Mikael), SciPy
 | Computing | Fast code  / vectorization, cython /  Fortran (Leo), Numba, dask, parallel computing
 | Programming | readability / PEP / best practices, Defensive programming and testing (Erik), Object Oriented programming (Tjebbe)
 | Workflow | Jupyter / Jupyter magic commands, git / github,  Virtual environments / conda / canopy
