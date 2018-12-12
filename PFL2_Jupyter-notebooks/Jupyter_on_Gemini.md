@@ -59,6 +59,8 @@ replace `kampe004` with your own SolidID and `8888` with the port that was displ
 The target port is this example is `8890` which should be available. No need to change that. 
 You'll be asked for your password. Then, if the process does not abort, the connection is made and ready to use. 
 
+Windows users: have a look here: https://www.skyverge.com/blog/how-to-set-up-an-ssh-tunnel-with-putty/
+
 ## Step 4.
 Fire up your browser (e.g. Firefox) and navigate to `http://localhost:8890/tree`
 
