@@ -17,7 +17,7 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 ## List of possible topics
 | Category | Package or topic |
 | ------------- | ------------- |
-| NetCDF  | Xarray, pandas, Iris, HDF5  |
+| NetCDF  | Xarray, pandas, Iris, HDF5 , netCDF4 |
 | Plotting  | maps - Cartopy, basemap (André), Matplotlib, geographical data  |
 | Scientific | machine learning (Mikael?), SciPy
 | Computing | Fast code  / vectorization, cython /  Fortran (Leo), Numba, dask, parallel computing
