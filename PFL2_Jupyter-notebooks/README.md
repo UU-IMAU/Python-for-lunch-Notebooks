@@ -8,3 +8,4 @@ conda install jupyter nb_conda
 # External links
 * [Jupyter homepage](https://jupyter.org/)
 * [Jupyter tips and tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [GNU screen](http://aperiodic.net/screen/quick_reference)
