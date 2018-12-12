@@ -33,6 +33,7 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 ## External links
 
 ### Introduction
+* Slides from Leo's lunchtalk back in 2017 [LINK](https://github.com/lvankampenhout/Lunchtalk-Python-2017)
 * Python for geosciences, by Nikolay Koldunov [LINK](https://github.com/koldunovn/python_for_geosciences)
 * A gallery of interesting notebooks [LINK](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * Lectures on scientific computing, by J.R. Johansson [LINK](https://github.com/jrjohansson/scientific-python-lectures)
