@@ -8,7 +8,7 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 | year | date | topic (lead speaker) |
 | ------------- | ------------- | ------------- |
 2019 | 23 January  | tbd  |
-| | 9 January  | tbd  |
+| | 9 January  | Example workflows 1  |
 2018 | 12 December  | Jupyter notebooks (André, Getachew)  |
 | | 28 November  | virtual environments (Daniele)  |
 | | 14 November  | introduction  |
