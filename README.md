@@ -23,6 +23,7 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 | Computing | Fast code  / vectorization, cython /  Fortran (Leo), Numba, dask, parallel computing
 | Programming | readability / PEP / best practices, Defensive programming and testing (Erik), Object Oriented programming (Tjebbe)
 | Workflow | Jupyter / Jupyter magic commands, git / github,  Virtual environments / conda / canopy
+| Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/)
 | Various | Open datasets, open source
 
 ## Background
