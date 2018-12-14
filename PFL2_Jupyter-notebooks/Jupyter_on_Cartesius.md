@@ -79,6 +79,10 @@ on your local machine connect to gemini:
 
 on local machine: as step 3 above
 
+---
 
+## N.B.
 
-NB. The numbers 88xx are chosen to be large enough integers, but are essentially random.
+- The numbers 88xx are chosen to be large enough integers, but are essentially random.
+
+- After some inactivity, the ssh pipes often break, which necessitates reestablishing them. This can be avoided using the [screen](https://www.gnu.org/software/screen/) functionality. See [here](http://aperiodic.net/screen/quick_reference) for a handy list of commands for `screen`.
