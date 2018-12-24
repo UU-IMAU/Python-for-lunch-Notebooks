@@ -1,12 +1,12 @@
 # using Jupyter's LabApp or NotebookApp on Cartesius
 
-*André Jüling (a.juling@uu.nl) | DEcember 2018*
+*André Jüling (a.juling@uu.nl) | December 2018*
 
 ## Step 0.
 
 Get on Cartesius:
 
-`ssh -Y dijkbio@cartesius.surfsara.nl`
+`ssh -Y {account}@cartesius.surfsara.nl`
 
 and load a suitable python environment on Cartesius.
 
@@ -28,8 +28,7 @@ When you are at IMAU you can connect directly to cartesius.surfsara.nl, because 
 
 ## Step 1.
 
-on Cartesius: activate Jupyterlab as
-follows:
+on Cartesius: activate Jupyterlab as follows:
 
 `jupyter lab --no-browser --port=8892`
 
@@ -39,7 +38,7 @@ you can alternatively run the NotebookApp by replacing `lab` with `notebook`
 
 on local machine: use this command to establish an ssh tunnel:
 
-`ssh -N -f -L localhost:8895:localhost:8892`
+`ssh -N -f -L localhost:8895:localhost:8892 {account}@cartesius.surfsara.nl`
 
 ## Step 3.
 
@@ -67,7 +66,7 @@ get on gemini
 
 there establish an ssh connection to cartesius:
 
-`ssh -N -L 8800:localhost:8892 dijkbio@cartesius.surfsara.nl`
+`ssh -N -L 8800:localhost:8892 {account}@cartesius.surfsara.nl`
 
 ## Step 3.
 
