@@ -7,8 +7,8 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 ## List of past topics
 | year | date | topic (lead speaker) |
 | ------------- | ------------- | ------------- |
-2019 | 23 January  | tbd  |
-| | 9 January  | Example workflows using Jupyter (Getachew, ..) |
+2019 | 23 January  | Example workflows using Jupyter  |
+| | 9 January  | cancelled |
 2018 | 12 December  | Jupyter notebooks (André)  |
 | | 28 November  | virtual environments (Daniele)  |
 | | 14 November  | introduction  |
