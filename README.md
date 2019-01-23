@@ -8,7 +8,7 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 | # | date | topic (lead speaker) |
 | ------------- | ------------- | ------------- |
 | 4 | 6 February  | Xarray |
-| 3 | 23 January  | Example workflows using Jupyter  |
+| 3 | 23 January  | Example workflows using Jupyter (Anneke, Leo) |
 |  | 9 January  2019 | cancelled |
 | 2 | 12 December  | Jupyter notebooks (André)  |
 | 1 | 28 November  | virtual environments (Daniele)  |
