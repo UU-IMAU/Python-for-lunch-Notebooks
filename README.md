@@ -5,13 +5,14 @@ We want to create a space where researchers at IMAU can exchange their expertise
 Every two weeks we will have seminar-style meetings at IMAU (room 607) where someone presents a Python package or a workflow. Following that we encourage discussions and peer-to-peer help with specific problems.
 
 ## List of past topics
-| year | date | topic (lead speaker) |
+| # | date | topic (lead speaker) |
 | ------------- | ------------- | ------------- |
-2019 | 23 January  | Example workflows using Jupyter  |
-| | 9 January  | cancelled |
-2018 | 12 December  | Jupyter notebooks (André)  |
-| | 28 November  | virtual environments (Daniele)  |
-| | 14 November  | introduction  |
+| 4 | 6 February  | Xarray |
+| 3 | 23 January  | Example workflows using Jupyter  |
+|  | 9 January  2019 | cancelled |
+| 2 | 12 December  | Jupyter notebooks (André)  |
+| 1 | 28 November  | virtual environments (Daniele)  |
+| 0 | 14 November 2018 | introduction  |
 
 
 ## List of possible topics
