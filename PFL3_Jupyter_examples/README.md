@@ -1,5 +1,7 @@
-# Jupyter Lab 
-More information https://github.com/jupyterlab/jupyterlab
+Jupyter Lab
+https://jupyterlab.readthedocs.io/en/stable/
 
 ## Install using conda
+```
 conda install -c conda-forge jupyterlab
+```
