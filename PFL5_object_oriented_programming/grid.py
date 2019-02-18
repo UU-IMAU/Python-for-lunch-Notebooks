@@ -12,7 +12,7 @@ class Grid(object):
         self.time = time
         self.grid_type = "grid"
 
-    def print_nature(self):
+    def print_whoAmI(self):
         print("I am a %s" % self.grid_type)
 
     @staticmethod
@@ -54,5 +54,5 @@ class CurvilinearGrid(Grid):
         plt.plot(self.lon.transpose(), self.lat.transpose(), 'b')
         return plt
 
-    def print_nature(self):
+    def print_whoAmI(self):
         print("I am a super fancy %s" % self.grid_type)
