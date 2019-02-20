@@ -5,14 +5,15 @@ We want to create a space where researchers at IMAU can exchange their expertise
 Every two weeks we will have seminar-style meetings at IMAU (room 607) where someone presents a Python package or a workflow. Following that we encourage discussions and peer-to-peer help with specific problems.
 
 ## List of past topics
-| # | date | topic (lead speaker) |
-| ------------- | ------------- | ------------- |
-| 4 | 6 February  | Xarray |
-| 3 | 23 January  | Example workflows using Jupyter (Anneke, Leo) |
-|  | 9 January  2019 | cancelled |
-| 2 | 12 December  | Jupyter notebooks (André)  |
-| 1 | 28 November  | virtual environments (Daniele)  |
-| 0 | 14 November 2018 | introduction  |
+| # | date     | topic                           | speaker(s)       |
+| --- | ------ | ------------------------------- | -------------    |
+| 6 | 19.03.06 | Advanced OO programming         | Tjebbe, Philippe |
+| 5 | 19.02.20 | Object oriented programming     | Tjebbe, Philippe |
+| 4 | 19.02.06 | Xarray                          | Leo, André       |
+| 3 | 19.01.23 | Example workflows using Jupyter | Anneke, Leo      |
+| 2 | 18.12.12 | Jupyter notebooks               | André            |
+| 1 | 18.12.28 | virtual environments            | Daniele          |
+| 0 | 18.11.14 | introduction                    | PFL team         |
 
 
 ## List of possible topics
