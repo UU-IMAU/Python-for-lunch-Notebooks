@@ -7,13 +7,13 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 ## List of past topics
 | # | date     | topic                           | speaker(s)       |
 | --- | ------ | ------------------------------- | -------------    |
-| 6 | 19.03.06 | Advanced OO programming         | Tjebbe, Philippe |
-| 5 | 19.02.20 | Object oriented programming     | Tjebbe, Philippe |
-| 4 | 19.02.06 | Xarray                          | Leo, André       |
-| 3 | 19.01.23 | Example workflows using Jupyter | Anneke, Leo      |
-| 2 | 18.12.12 | Jupyter notebooks               | André            |
-| 1 | 18.12.28 | virtual environments            | Daniele          |
-| 0 | 18.11.14 | introduction                    | PFL team         |
+| 6 | 2019.03.06 | Advanced OO programming         | Tjebbe, Philippe |
+| 5 | 2019.02.20 | Object oriented programming     | Tjebbe, Philippe |
+| 4 | 2019.02.06 | Xarray                          | Leo, André       |
+| 3 | 2019.01.23 | Example workflows using Jupyter | Anneke, Leo      |
+| 2 | 2018.12.12 | Jupyter notebooks               | André            |
+| 1 | 2018.12.28 | virtual environments            | Daniele          |
+| 0 | 2018.11.14 | introduction                    | PFL team         |
 
 
 ## List of possible topics
