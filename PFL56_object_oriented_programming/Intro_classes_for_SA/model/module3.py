@@ -36,7 +36,7 @@ class parsetting(object):
     @property
     def plastic(self):
         return self._plastic  #simply returns the value of the variable _plastic
-
+    
     # the setter of the property plastic
     @plastic.setter
     def plastic(self,value):

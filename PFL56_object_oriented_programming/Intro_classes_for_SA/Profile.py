@@ -17,10 +17,10 @@ ps1 = parset1()
 ps2 = parset2()
 
 #make it a bit more costly.
-ps1.N=500
-ps1.nn=1e6
-ps2.N=500
-ps2.nn=1e6
+ps1.N=800
+ps1.nn=2e6
+ps2.N=1000
+ps2.nn=2e6
 
 #run profiler, output is called 'stats'
 cProfile.run('ps1.solve()', 'stats1')
