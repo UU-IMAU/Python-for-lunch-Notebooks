@@ -7,6 +7,8 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 ## List of past topics
 | # | date     | topic                           | speaker(s)       |
 | --- | ------ | ------------------------------- | -------------    |
+| 8 | 2019.04.03 | Matplotlib + cartopy           | Anne, ? |
+| 7 | 2019.03.27 | Matplotlib basics               | Mikael, Leo |
 | 6 | 2019.03.06 | Advanced OO programming         | Tjebbe, Philippe |
 | 5 | 2019.02.20 | Object oriented programming     | Tjebbe, Philippe |
 | 4 | 2019.02.06 | Xarray                          | Leo, André       |
