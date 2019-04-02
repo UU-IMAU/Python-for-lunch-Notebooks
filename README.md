@@ -29,7 +29,7 @@ Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody 
 | Computing | Fast code  / vectorization, cython / Fortran (Leo), Numba, dask, parallel computing
 | Programming | readability / PEP / best practices, defensive programming and testing (Erik), OO programming (Tjebbe)
 | Workflow | [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/), git,  virtual environments
-| Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/), [Sympy](http://code.google.com/p/sympy/)
+| Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/), [Sympy](https://www.sympy.org)
 | Various | Open datasets, open source, open science
 
 ## Background
