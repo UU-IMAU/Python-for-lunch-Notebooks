@@ -30,7 +30,6 @@ Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody 
 | Programming | readability / PEP / best practices, defensive programming and testing (Erik), OO programming (Tjebbe)
 | Workflow | [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/), git,  virtual environments
 | Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/), [Sympy](https://www.sympy.org)
-| Various | Open datasets, open source, open science
 
 ## Background
 Many IMAU folks currently use Python for parts of their workflow or have expressed interest in doing so. Yet the suite of packages available for geophysical science is quite extensive and therefore it can be hard to pick the right one. On top of that, learning a new language or developing a new workflow from scratch can be quite time-consuming. It makes you wonder, if only there was a fun and efficient way of mastering new Python skills… Enter `Python for Lunch!`.
