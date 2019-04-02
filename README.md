@@ -29,7 +29,7 @@ Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody 
 | Computing | Fast code  / vectorization, cython / Fortran (Leo), Numba, dask, parallel computing
 | Programming | readability / PEP / best practices, defensive programming and testing (Erik), OO programming (Tjebbe)
 | Workflow | [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/), git,  virtual environments
-| Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/)
+| Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/), [Sympy](http://code.google.com/p/sympy/)
 | Various | Open datasets, open source, open science
 
 ## Background
@@ -42,6 +42,7 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 ### Open science communities
 * [Pangeo](http://pangeo.io/) is a community promoting open, reproducible, and scalable science.
 * [NumFocus](https://numfocus.org/) is a nonprofit dedicated to supporting the open source scientific computing community.
+* [EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/), Python in Education
 
 ### Python
 * [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/)
