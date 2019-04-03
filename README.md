@@ -1,10 +1,10 @@
 # Python for lunch!
 
-We want to create a space where researchers at IMAU can exchange their expertise on Python & open science best practices.
+`PFL` is a space where researchers and students at IMAU exchange ideas and expertise on Python & discuss best practices in [open science](https://en.wikipedia.org/wiki/Open_science).
 
-Every two weeks we will have seminar-style meetings at IMAU (room 607) where someone presents a Python package or a workflow. Following that we encourage discussions and peer-to-peer help with specific problems.
+Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody can present a particular Python package or workflow. Following the presentation there is room for general discussion, and we encourage users to help each other out with specific problems. Everybody can be a teacher!
 
-## List of past topics
+## Agenda
 | # | date     | topic                           | speaker(s)       |
 | --- | ------ | ------------------------------- | -------------    |
 | 8 | 2019.04.03 | Matplotlib + cartopy           | Anne, ? |
@@ -18,17 +18,18 @@ Every two weeks we will have seminar-style meetings at IMAU (room 607) where som
 | 0 | 2018.11.14 | introduction                    | PFL team         |
 
 
-## List of possible topics
+## Overview of possible topics
 | Category | Package or topic |
 | ------------- | ------------- |
-| NetCDF  | Xarray (Leo), pandas, Iris, HDF5, netCDF4 (Aarnout) |
-| Plotting  | maps - Cartopy, basemap (André), Matplotlib, geographical data  |
-| Scientific | machine learning (Mikael), SciPy
-| Computing | Fast code  / vectorization, cython /  Fortran (Leo), Numba, dask, parallel computing
-| Programming | readability / PEP / best practices, Defensive programming and testing (Erik), Object Oriented programming (Tjebbe)
-| Workflow | Jupyter / Jupyter magic commands, git / github,  Virtual environments / conda / canopy
-| Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/)
-| Various | Open datasets, open source
+| NetCDF  | [Xarray](http://xarray.pydata.org/), Iris, HDF5, netCDF4 (Aarnout) |
+| Regridding | [xesmf](https://xesmf.readthedocs.io/en/latest/)
+| Data analysis | [pandas](http://pandas.pydata.org/), [aospy](https://aospy.readthedocs.io/en/stable/), [xgcm](https://xgcm.readthedocs.io/en/latest/), [salem](https://salem.readthedocs.io/en/stable/)
+| Plotting  | Matplotlib, [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html), basemap (André)
+| Science | SciPy, machine learning (Mikael)
+| Computing | Fast code  / vectorization, cython / Fortran (Leo), Numba, dask, parallel computing
+| Programming | readability / PEP / best practices, defensive programming and testing (Erik), OO programming (Tjebbe)
+| Workflow | [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/), git,  virtual environments
+| Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/), [Sympy](https://www.sympy.org)
 
 ## Background
 Many IMAU folks currently use Python for parts of their workflow or have expressed interest in doing so. Yet the suite of packages available for geophysical science is quite extensive and therefore it can be hard to pick the right one. On top of that, learning a new language or developing a new workflow from scratch can be quite time-consuming. It makes you wonder, if only there was a fun and efficient way of mastering new Python skills… Enter `Python for Lunch!`.
@@ -37,12 +38,17 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 
 ## External links
 
-### Introduction
-* Slides from Leo's lunchtalk back in 2017 [LINK](https://github.com/lvankampenhout/Lunchtalk-Python-2017)
-* Python for geosciences, by Nikolay Koldunov [LINK](https://github.com/koldunovn/python_for_geosciences)
-* A gallery of interesting notebooks [LINK](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-* Lectures on scientific computing, by J.R. Johansson [LINK](https://github.com/jrjohansson/scientific-python-lectures)
-* Python style convention guide [LINK](https://pep8.org/)
+### Open science communities
+* [Pangeo](http://pangeo.io/) is a community promoting open, reproducible, and scalable science.
+* [NumFocus](https://numfocus.org/) is a nonprofit dedicated to supporting the open source scientific computing community.
+* [EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/), Python in Education
 
-### Big datasets
-* PanGEO, Big Data geoscience [LINK](http://pangeo.io/)
+### Python
+* [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/)
+* [PEP 8 Style guide](https://pep8.org/)
+
+### Interesting material elsewhere
+* [Python for geosciences](https://github.com/koldunovn/python_for_geosciences), by Nikolay Koldunov 
+* [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks), by the Jupyter project
+* [Lectures on scientific computing](https://github.com/jrjohansson/scientific-python-lectures), by J.R. Johansson 
+* Leo's [IMAU lunchtalk](https://github.com/lvankampenhout/Lunchtalk-Python-2017) back in 2017 
