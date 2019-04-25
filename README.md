@@ -7,6 +7,8 @@ Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody 
 ## Agenda
 | # | date     | topic                           | speaker(s)       |
 | --- | ------ | ------------------------------- | -------------    |
+| 8 | 2019.05.01 | Defensive programming           | Erik |
+| 9 | 2019.04.17 | General discussion | - |
 | 8 | 2019.04.03 | Matplotlib + cartopy           | Anne, Leo |
 | 7 | 2019.03.27 | Matplotlib basics               | Mikael, Leo |
 | 6 | 2019.03.06 | Advanced OO programming         | Tjebbe, Philippe |
