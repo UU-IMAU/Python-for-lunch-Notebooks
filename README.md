@@ -5,12 +5,13 @@
 Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody can present a particular Python package or workflow. Following the presentation there is room for general discussion, and we encourage users to help each other out with specific problems. Everybody can be a teacher!
 
 ## Agenda
-| # | date     | topic                           | speaker(s)       |
-| --- | ------ | ------------------------------- | -------------    |
-| 10 | 2019.05.01 | Defensive programming           | Erik |
-| 9 | 2019.04.17 | General discussion | - |
-| 8 | 2019.04.03 | Matplotlib + cartopy           | Anne, Leo |
-| 7 | 2019.03.27 | Matplotlib basics               | Mikael, Leo |
+| # | date     | topic                             | speaker(s)       |
+| --- | ------ | --------------------------------- | -------------    |
+| 11 | 2019.05.15 | Pandas                         | Jasper           |
+| 10 | 2019.05.01 | Defensive programming          | Erik             |
+| 9 | 2019.04.17 | General discussion              | -                |
+| 8 | 2019.04.03 | Matplotlib + cartopy            | Anne, Leo        |
+| 7 | 2019.03.27 | Matplotlib basics               | Mikael, Leo      |
 | 6 | 2019.03.06 | Advanced OO programming         | Tjebbe, Philippe |
 | 5 | 2019.02.20 | Object oriented programming     | Tjebbe, Philippe |
 | 4 | 2019.02.06 | Xarray                          | Leo, André       |
