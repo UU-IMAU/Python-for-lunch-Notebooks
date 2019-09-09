@@ -58,6 +58,6 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 
 ### Try out the notebooks on mybinder.org
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UU-IMAU/Python-for-lunch-Notebooks/master?urlpath=lab/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UU-IMAU/Python-for-lunch-Notebooks/master?urlpath=lab)
 
 
