@@ -1,0 +1,6 @@
+name: py_sandbox
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - numpy
