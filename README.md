@@ -55,3 +55,9 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 * [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks), by the Jupyter project
 * [Lectures on scientific computing](https://github.com/jrjohansson/scientific-python-lectures), by J.R. Johansson 
 * Leo's [IMAU lunchtalk](https://github.com/lvankampenhout/Lunchtalk-Python-2017) back in 2017 
+
+### Try out the notebooks on mybinder.org
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UU-IMAU/Python-for-lunch-Notebooks/master?urlpath=lab/tree)
+
+
