@@ -54,7 +54,8 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 * [Python for geosciences](https://github.com/koldunovn/python_for_geosciences), by Nikolay Koldunov 
 * [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks), by the Jupyter project
 * [Lectures on scientific computing](https://github.com/jrjohansson/scientific-python-lectures), by J.R. Johansson 
-* Leo's [IMAU lunchtalk](https://github.com/lvankampenhout/Lunchtalk-Python-2017) back in 2017 
+* Leo's [IMAU lunchtalk](https://github.com/lvankampenhout/Lunchtalk-Python-2017) back in 2017
+* [Scipy 2019 tutorials and talks](https://www.scipy2019.scipy.org/tutorial-participant-instructions) + [Videos](https://www.youtube.com/playlist?list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC)
 
 ### Try out the notebooks on mybinder.org
 
