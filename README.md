@@ -7,6 +7,7 @@ Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody 
 ## Agenda
 | # | date     | topic                             | speaker(s)       |
 | --- | ------ | --------------------------------- | -------------    |
+| 14 | 2019.10.16 | Numpy and vectorization | Leo |
 | 13 | 2019.10.02 | Julia | Oscar van der Heide |
 | 12 | 2019.09.18 | Exceptions, lists, recap last year  | Mikael, Leo |
 | 11 | 2019.05.15 | Pandas                         | Jasper           |
