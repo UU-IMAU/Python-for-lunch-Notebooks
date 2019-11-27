@@ -47,7 +47,7 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 ## External links
 
 ### Open science communities
-* [Pangeo](http://pangeo.io/) is a community promoting open, reproducible, and scalable science.
+* [Pangeo](http://pangeo.io/) is a community promoting open, reproducible, and scalable science. They curate a list of [Awesome Open Atmospheric, Ocean, and Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)
 * [NumFocus](https://numfocus.org/) is a nonprofit dedicated to supporting the open source scientific computing community.
 * [EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/), Python in Education
 
