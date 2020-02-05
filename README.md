@@ -7,6 +7,7 @@ Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody 
 ## Agenda
 | # | date        | topic                           | speaker(s)          |
 | --- | --------- | ------------------------------- | ------------------- |
+| 17 | 2020.02.05 | Matplotlib colormaps            | Reint               |
 | 16 | 2019.11.27 | teaching with Python            | Maarten             |
 | 15 | 2019.11.20 | git                             | Stan                |
 | 14 | 2019.10.16 | Numpy and vectorization         | Leo                 |
