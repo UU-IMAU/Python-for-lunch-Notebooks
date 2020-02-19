@@ -1,0 +1,8 @@
+Heiko;Goelzer;h.goelzer@uu.nl;IMAU, UU;Labo glaciol, ULB;nil;nil;nil
+Efe;Cash;name@lab.com;IMAU, UU;nil;nil;nil;nil
+Lucas;Brown;name@lab.com;KC;nil;nil;nil;nil
+Taio;Noel;name@lab.com;IMAU, UU;nil;nil;nil;nil
+Alina;Raymond;name@lab.com;ULG;nil;nil;nil;nil
+Zacharias;Schmitt;name@lab.com;HC;nil;nil;nil;nil
+Menna;Valentine;name@lab.com;NCAR;nil;nil;nil;nil
+Harley;Vinson;name@lab.com;IMAU, UU;nil;nil;nil;nil

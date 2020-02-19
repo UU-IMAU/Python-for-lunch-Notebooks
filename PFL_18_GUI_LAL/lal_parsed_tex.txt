@@ -1,0 +1,16 @@
+\Author[1,2]{Heiko}{Goelzer}
+\Author[1]{Efe}{Cash}
+\Author[3]{Lucas}{Brown}
+\Author[1]{Taio}{Noel}
+\Author[4]{Alina}{Raymond}
+\Author[5]{Zacharias}{Schmitt}
+\Author[6]{Menna}{Valentine}
+\Author[1]{Harley}{Vinson}
+
+
+\affil[1]{IMAU, UU}
+\affil[2]{Labo glaciol, ULB}
+\affil[3]{KC}
+\affil[4]{ULG}
+\affil[5]{HC}
+\affil[6]{NCAR}
