@@ -58,6 +58,7 @@ Many IMAU folks currently use Python for parts of their workflow or have express
 * [PEP 8 Style guide](https://pep8.org/)
 
 ### Interesting material elsewhere
+* [Earth and Environmental Data Science course book](https://earth-env-data-science.github.io/intro), by Ryan Abernathey
 * [Python for geosciences](https://github.com/koldunovn/python_for_geosciences), by Nikolay Koldunov 
 * [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks), by the Jupyter project
 * [Lectures on scientific computing](https://github.com/jrjohansson/scientific-python-lectures), by J.R. Johansson 
