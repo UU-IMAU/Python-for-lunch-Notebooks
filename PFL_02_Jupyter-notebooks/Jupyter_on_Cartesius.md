@@ -30,7 +30,7 @@ When you are at IMAU you can connect directly to cartesius.surfsara.nl, because 
 
 on Cartesius: activate Jupyterlab as follows:
 
-`jupyter lab --no-browser --port=8892`
+`jupyter lab --no-browser --ip=localhost`
 
 you can alternatively run the NotebookApp by replacing `lab` with `notebook`
 
@@ -38,7 +38,9 @@ you can alternatively run the NotebookApp by replacing `lab` with `notebook`
 
 on local machine: use this command to establish an ssh tunnel:
 
-`ssh -N -L localhost:8895:localhost:8892 {account}@cartesius.surfsara.nl`
+`ssh -N -L localhost:8895:localhost:{8888} {account}@cartesius.surfsara.nl`
+
+where you 8888 is the port number that appears near the top of the jupyterlab output following the above command.
 
 ## Step 3.
 
@@ -66,7 +68,9 @@ get on gemini
 
 there establish an ssh connection to cartesius:
 
-`ssh -N -L 8800:localhost:8892 {account}@cartesius.surfsara.nl`
+`ssh -N -L 8800:localhost:{8888} {account}@cartesius.surfsara.nl`
+
+again, replace 8888 with the appropriate port number that appears in the jupyterlab output.
 
 ## Step 3.
 
@@ -83,7 +87,7 @@ on local machine: as step 3 above
 ## N.B.
 
 - you may get an error message `bind: Cannot assign requested address`, this is not fatal in itself but is a warning that you can ignore
-- The numbers 88xx are chosen to be large enough integers, but are essentially random.
+- The numbers 88xx are chosen to be large enough integers, but are essentially random, and should be in the range [8192, 65535].
 - After some inactivity, the ssh pipes often break, which necessitates reestablishing them. This can be avoided using the [screen](https://www.gnu.org/software/screen/) functionality. See [here](http://aperiodic.net/screen/quick_reference) for a handy list of commands for `screen`.
 - adding a `-f` flag will run the tunnel in th background
 - use `ps aux | grep ssh` to see which ssh tunnels are active (and `kill -9 {processID}` to kill it)
