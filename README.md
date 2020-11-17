@@ -38,8 +38,8 @@ Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody 
 | Regridding | [xesmf](https://xesmf.readthedocs.io/en/latest/)
 | Data analysis | [pandas](http://pandas.pydata.org/), [aospy](https://aospy.readthedocs.io/en/stable/), [xgcm](https://xgcm.readthedocs.io/en/latest/), [salem](https://salem.readthedocs.io/en/stable/), [ESMValTool](https://www.esmvaltool.org/)
 | Plotting  | Matplotlib, [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html), basemap (André)
-| Science | SciPy, machine learning (Mikael)
-| Computing | Fast code  / vectorization, cython / Fortran (Leo), Numba, dask, parallel computing
+| Science | SciPy (Christian), machine learning (Mikael)
+| Computing | Fast code (Christian / vectorization, cython / Fortran (Leo), ctypes (Christian), Numba (Christian), Dask (Christian), parallel computing
 | Programming | readability / PEP / best practices, defensive programming and testing (Erik), OO programming (Tjebbe)
 | Workflow | [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/), git,  virtual environments
 | Education | [nbgrader](https://nbgrader.readthedocs.io/en/stable/), [Sympy](https://www.sympy.org)
