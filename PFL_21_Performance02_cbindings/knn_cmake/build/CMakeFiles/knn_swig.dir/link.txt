@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libknn_swig.so.1.0 -o lib/libknn_swig.so.1.0 CMakeFiles/knn_swig.dir/src/knn_swig.cpp.o 
