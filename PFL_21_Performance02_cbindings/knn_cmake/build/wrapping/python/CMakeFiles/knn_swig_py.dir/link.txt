@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,_knn_swig_py.so -o ../../lib/_knn_swig_py.so CMakeFiles/knn_swig_py.dir/__/__/python/knn_swig/knn_swigPYTHON_wrap.cxx.o  -Wl,-rpath,"\$ORIGIN:\$ORIGIN/../../knn_swig/.libs" ../../lib/libknn_swig.so.1.0 
