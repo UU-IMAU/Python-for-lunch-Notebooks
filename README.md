@@ -5,27 +5,30 @@
 Every two weeks we host seminar-style meetings at IMAU (room 607) where anybody can present a particular Python package or workflow. Following the presentation there is room for general discussion, and we encourage users to help each other out with specific problems. Everybody can be a teacher!
 
 ## Agenda
-| # | date        | topic                           | speaker(s)          |
-| --- | --------- | ------------------------------- | ------------------- |
-| 18 | 2020.02.19 | graph. user interface use case  | Heiko               |
-| 17 | 2020.02.05 | Matplotlib colormaps            | Reint               |
-| 16 | 2019.11.27 | teaching with Python            | Maarten             |
-| 15 | 2019.11.20 | git                             | Stan                |
-| 14 | 2019.10.16 | Numpy and vectorization         | Leo                 |
-| 13 | 2019.10.02 | Julia                           | Oscar van der Heide |
-| 12 | 2019.09.18 | Exceptions, lists, recap 2018   | Mikael, Leo         |
-| 11 | 2019.05.15 | Pandas                          | Jasper              |
-| 10 | 2019.05.01 | Defensive programming           | Erik                |
-|  9 | 2019.04.17 | General discussion              | -                   |
-|  8 | 2019.04.03 | Matplotlib + cartopy            | Anne, Leo           |
-|  7 | 2019.03.27 | Matplotlib basics               | Mikael, Leo         |
-|  6 | 2019.03.06 | Advanced OO programming         | Tjebbe, Philippe    |
-|  5 | 2019.02.20 | Object oriented programming     | Tjebbe, Philippe    |
-|  4 | 2019.02.06 | Xarray                          | Leo, André          |
-|  3 | 2019.01.23 | Example workflows using Jupyter | Anneke, Leo         |
-|  2 | 2018.12.12 | Jupyter notebooks               | André               |
-|  1 | 2018.12.28 | virtual environments            | Daniele             |
-|  0 | 2018.11.14 | introduction                    | PFL team            |
+| # | date        | topic                            | speaker(s)          |
+| --- | --------- | -------------------------------- | ------------------- |
+| 18 | 2020.11.17 | Performance - C-bindings         | Christian           |
+| 18 | 2020.11.03 | Performance - data access & Dask | Christian           |
+| 18 | 2020.10.20 | Performance - time & benchmark   | Christian           |
+| 18 | 2020.02.19 | graph. user interface use case   | Heiko               |
+| 17 | 2020.02.05 | Matplotlib colormaps             | Reint               |
+| 16 | 2019.11.27 | teaching with Python             | Maarten             |
+| 15 | 2019.11.20 | git                              | Stan                |
+| 14 | 2019.10.16 | Numpy and vectorization          | Leo                 |
+| 13 | 2019.10.02 | Julia                            | Oscar van der Heide |
+| 12 | 2019.09.18 | Exceptions, lists, recap 2018    | Mikael, Leo         |
+| 11 | 2019.05.15 | Pandas                           | Jasper              |
+| 10 | 2019.05.01 | Defensive programming            | Erik                |
+|  9 | 2019.04.17 | General discussion               | -                   |
+|  8 | 2019.04.03 | Matplotlib + cartopy             | Anne, Leo           |
+|  7 | 2019.03.27 | Matplotlib basics                | Mikael, Leo         |
+|  6 | 2019.03.06 | Advanced OO programming          | Tjebbe, Philippe    |
+|  5 | 2019.02.20 | Object oriented programming      | Tjebbe, Philippe    |
+|  4 | 2019.02.06 | Xarray                           | Leo, André          |
+|  3 | 2019.01.23 | Example workflows using Jupyter  | Anneke, Leo         |
+|  2 | 2018.12.12 | Jupyter notebooks                | André               |
+|  1 | 2018.12.28 | virtual environments             | Daniele             |
+|  0 | 2018.11.14 | introduction                     | PFL team            |
 
 
 ## Overview of possible topics
